@@ -1,0 +1,21 @@
+1,M&Ms,1.99,1,Mars,image,M&M's are colorful button-shaped chocolates that are coated in a candy shell,9,10
+2,Sour Patch Kids,2.49,2,Mondelez,image,Sour Patch Kids are a soft and chewy candy that have a sour coating and a sweet center,8,12
+3,Skittles,1.79,2,Mars,image,Skittles are small chewy candies that come in a rainbow of colors and flavors,12,8
+4,Haribo Goldbears,1.29,2,Haribo,image,Haribo Goldbears are a classic gummy candy that come in a variety of fruit flavors,15,5
+5,Jolly Ranchers,0.99,3,Hershey,image,Jolly Ranchers are a hard candy that come in a variety of fruit flavors,20,3
+6,Kit Kat,1.49,1,Nestle,image,Kit Kat is a chocolate-covered wafer bar that is known for its crispy texture and creamy filling,15,6
+7,Reese's Pieces,1.99,2,Hershey,image,Reese's Pieces are a small round candy that are made of peanut butter covered in a candy shell,10,10
+8,Twizzlers,1.29,3,Hershey,image,Twizzlers are a soft and chewy candy that come in a variety of flavors,15,5
+9,Snickers,1.79,1,Mars,image,Snickers is a candy bar that consists of peanuts caramel nougat and milk chocolate,7,8
+10,SweeTarts,0.99,3,Ferrara,image,SweeTarts are a hard candy that come in a variety of flavors,20,3
+11,Sour Punch Straws,1.99,2,American Licorice,image,Sour Punch Straws are a chewy candy that come in a variety of fruit flavors,4,10
+12,Swedish Fish,1.79,2,Mondelez,image,Swedish Fish are a soft and chewy candy that are shaped like fish,12,8
+13,Starburst,1.29,2,Mars,image,Starburst are a chewy candy that come in a variety of fruit flavors,15,5
+14,Reese's Peanut Butter Cups,2.49,2,Hershey,image,Reese's Peanut Butter Cups are a candy that consist of a peanut butter filling surrounded by milk chocolate,8,12
+15,Milky Way,1.49,1,Mars,image,Milky Way is a candy bar that consists of nougat,20,3
+16,Butterfinger,1.99,1,Ferrara,image,Butterfinger is a candy bar that consists of a crispy peanut butter filling surrounded by milk chocolate,18,6
+17,Almond Joy,1.29,1,Hershey,image,Almond Joy is a candy bar that consists of a coconut filling topped with almonds and covered in milk chocolate,10,10
+18,Nerds,0.99,3,Ferrara,image,Nerds are a small crunchy candy that come in a variety of fruit flavors,15,5
+19,3 Musketeers,1.79,1,Mars,image,3 Musketeers is a candy bar that consists of a whipped nougat center covered in milk chocolate,12,8
+20,Gummy Bears,1.49,2,Haribo,image,Gummy Bears are a classic candy that come in a variety of fruit flavors,20,3
+21,Mounds,1.99,1,Hershey,image,Mounds is a candy bar that consists of a coconut filling covered in dark chocolate,10,10

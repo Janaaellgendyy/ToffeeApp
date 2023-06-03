@@ -1,0 +1,7 @@
+toffee.authentication_manager
+toffee.category_view_manager
+toffee.mobile_ui
+toffee.order_manager
+toffee.presistence_manager
+toffee.shopping_cart_manager
+toffee.user_manager
